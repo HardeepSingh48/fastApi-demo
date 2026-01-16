@@ -155,6 +155,7 @@ alembic/versions/*.pyc
 logs/
 *.log
 
+run.sh
 docss/
 # Testing
 .coverage
